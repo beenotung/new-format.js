@@ -1,5 +1,5 @@
 {
-  "name": "format-text",
+  "name": "new-format.js",
   "version": "0.0.3",
   "description": "String formatting library inspired from Python",
   "main": "index.js",
@@ -9,10 +9,14 @@
   "devDependencies": {
     "prova": "*"
   },
-  "repository": {
-    "url": "git@github.com:azer/format-text.git",
-    "type": "git"
-  },
   "author": "Azer Koçulu <azer@kodfabrik.com>",
-  "license": "BSD"
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beenotung/new-format.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beenotung/new-format.js/issues"
+  },
+  "homepage": "https://github.com/beenotung/new-format.js#readme"
 }
